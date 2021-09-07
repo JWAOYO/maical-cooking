@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.index_title{
+  width: 100%;
+  height: 200px;
+  background-color: skyblue;
+  display: flex;
+}
+
+
+.index_title_name{
+  margin: auto;
+}
+
+.index_title_name a{
+  color: white;
+  font-size: 50px;
+  font-weight: bold;  
+  text-decoration: none;
+}
+
+.nav{
+  background-color: skyblue;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  margin-top: 20px;
+  border: 3px solid lightgrey;
+}
+
+.nav_item{
+  margin: auto;
+}
+
+.nav_item a{
+  color: white;
+  text-decoration: none;
+}
